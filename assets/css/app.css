@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Manrope|Kaushan+Script");
+@import url("https://fonts.googleapis.com/css?family=Lato|Inter|Kaushan+Script");
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
 }
 
 html {
-  font-family: 'Manrope', Lato, Tahoma, sans-serif;
+  font-family: 'Inter', Lato, Tahoma, sans-serif;
   width: 100%;
   min-height: 100%;
 }
@@ -26,7 +26,7 @@ html {
   background-size: cover;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .hero .title {
@@ -68,7 +68,7 @@ html {
   line-height: 38px;
   font-weight: 600;
   text-transform: lowercase;
-  letter-spacing: 1px;
+ 
   font-size: 1rem;
 }
 
@@ -95,7 +95,7 @@ html {
 .main-content {
   padding-top: 2rem;
   color: #3c4172;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .main-content .section-dark {
@@ -215,7 +215,7 @@ html {
   height: 50px;
   font-size: 1.1rem;
   text-transform: uppercase;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 @media (max-width: 599px) {
@@ -244,7 +244,7 @@ html {
   color: #43485c;
   text-transform: uppercase;
   font-size: 1.8rem;
-  letter-spacing: 2px;
+ 
   padding-bottom: 30px;
 }
 
