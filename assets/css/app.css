@@ -16,7 +16,7 @@ html {
 }
 
 .header-wrapper {
-  /* padding-bottom: 30px; */
+  padding-bottom: 30px;
 }
 
 .hero {
@@ -37,12 +37,12 @@ html {
 }
 
 .hero .subtitle {
-  /* padding: 5px; */
+  padding: 5px;
   color: whitesmoke;
 }
 
 .hero .profession {
-  /* padding-top: 50px; */
+  padding-top: 50px;
   font-size: 1.7rem;
   text-transform: uppercase;
 }
@@ -93,29 +93,29 @@ html {
 }
 
 .main-content {
-  /* padding-top: 2rem; */
+  padding-top: 2rem;
   color: #3c4172;
   font-family: 'Inter', sans-serif;
 }
 
 .main-content .section-dark {
   background-color: #f0f3f5;
-  /* padding: 60px 0px; */
+  padding: 60px 0px;
 }
 
 .main-content .section-dark.resume {
   height: 400px;
-  /* padding-top: 100px; */
+  padding-top: 100px;
 }
 
 @media (max-width: 599px) {
   .main-content .section-dark.resume {
-    /* padding-top: 75px; */
+    padding-top: 75px;
   }
 }
 
 .main-content .section-dark.resume .title {
-  /* padding: 20px; */
+  padding: 20px;
 }
 
 .main-content .section-dark.resume button {
@@ -133,12 +133,12 @@ html {
 }
 
 .main-content .section-dark.my-work {
-  /* padding: 120px; */
+  padding: 120px;
 }
 
 @media (max-width: 599px) {
   .main-content .section-dark.my-work {
-    /* padding: 75px 20px; */
+    padding: 75px 20px;
   }
 }
 
@@ -160,11 +160,11 @@ html {
 }
 
 .main-content .section-light {
-  /* padding: 30px; */
+  padding: 30px;
 }
 
 .main-content .section-light.about-me {
-  /* padding-bottom: 100px; */
+  padding-bottom: 100px;
 }
 
 .main-content .section-light.about-me .is-larger {
@@ -185,18 +185,18 @@ html {
 
 @media (max-width: 599px) {
   .main-content .section-light.about-me .right-image img {
-    /* margin: auto; */
+    margin: auto;
   }
 }
 
 .main-content .section-light.skills {
-  /* padding: 100px; */
+  padding: 100px;
 }
 
 @media (max-width: 599px) {
   .main-content .section-light.skills {
-    /* padding: 50px 20px 40px 20px; */
-    /* padding-bottom: 20px; */
+    padding: 50px 20px 40px 20px;
+    padding-bottom: 20px;
   }
 }
 
@@ -205,7 +205,7 @@ html {
 }
 
 .main-content .section-light.contact {
-  /* padding: 200px; */
+  padding: 200px;
 }
 
 .main-content .section-light.contact button {
@@ -220,12 +220,12 @@ html {
 
 @media (max-width: 599px) {
   .main-content .section-light.contact {
-    /* padding: 60px 20px; */
+    padding: 60px 20px;
   }
 }
 
 .main-content .section-color.services {
-  /* padding: 100px; */
+  padding: 100px;
   background-color: #43485c;
   color: white;
 }
@@ -249,7 +249,7 @@ html {
 }
 
 .footer {
-  /* bottom: 0; */
+  bottom: 0;
   width: 100vw;
   /* padding: 0; */
   height: 80px;
@@ -257,17 +257,17 @@ html {
   text-align: center;
   background: #1f2c6c;
   color: whitesmoke;
-  /* padding-top: 2rem; */
+  padding-top: 2rem;
 }
 
 .footer a {
-  /* padding: 0rem 1rem 1rem 1rem; */
+  padding: 0rem 1rem 1rem 1rem;
   color: lightgrey;
 }
 
 .footer a i {
   font-size: 1.5rem;
-  /* padding: 0px 10px; */
+  padding: 0px 10px;
 }
 
 .footer a .nav-item {
