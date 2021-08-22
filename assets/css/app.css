@@ -60,7 +60,7 @@ html {
 }
 
 .hero .hero-foot .hero-foot--wrapper {
-  margin: 7px auto;
+  /* margin: 7px auto; */
   height: 50px;
 }
 
@@ -74,8 +74,8 @@ html {
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li {
   display: inline-block;
-  padding-right: 15px;
-  padding-left: 15px;
+  /* padding-right: 15px;
+  padding-left: 15px; */
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
@@ -179,7 +179,7 @@ html {
 
 .main-content .section-light.about-me .right-image img {
   border-radius: 11px;
-  margin: 20px;
+  /* margin: 20px; */
   box-shadow: 0 5px 20px rgba(14, 25, 80, 0.3);
 }
 
@@ -237,7 +237,7 @@ html {
 
 .main-content .section-color.services i {
   font-size: 3rem;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .main-content .section-title {
